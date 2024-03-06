@@ -2,7 +2,7 @@ import pygame
 
 pygame.init()
 
-font = pygame.font.SysFont("Arial", 30)
+font = pygame.font.SysFont("Arial", 15)
 
 
 def debug(info, x=10, y=10):
